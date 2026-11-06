@@ -1,0 +1,62 @@
+{
+  "item_0003": {
+    "file": "item_0003.png",
+    "name": "Meat",
+    "enabled": true
+  },
+  "item_0004": {
+    "file": "item_0004.png",
+    "name": "Gold",
+    "enabled": true
+  },
+  "item_0005": {
+    "file": "item_0005.png",
+    "name": "Gold",
+    "enabled": true
+  },
+  "item_0006": {
+    "file": "item_0006.png",
+    "name": "Gold",
+    "enabled": true
+  },
+  "item_0007": {
+    "file": "item_0007.png",
+    "name": "Gold",
+    "enabled": true
+  },
+  "item_0009": {
+    "file": "item_0009.png",
+    "name": "Gold",
+    "enabled": true
+  },
+  "item_0008": {
+    "file": "item_0008.png",
+    "name": "Gold",
+    "enabled": true
+  },
+  "item_0013": {
+    "file": "item_0013.png",
+    "name": "Gold",
+    "enabled": true
+  },
+  "item_0010": {
+    "file": "item_0010.png",
+    "name": "Gold",
+    "enabled": true
+  },
+  "item_0011": {
+    "file": "item_0011.png",
+    "name": "Gold",
+    "enabled": true
+  },
+  "item_0012": {
+    "file": "item_0012.png",
+    "name": "Gold",
+    "enabled": true
+  },
+  "item_0015": {
+    "file": "item_0015.png",
+    "name": "Gold",
+    "enabled": true
+  }
+}
