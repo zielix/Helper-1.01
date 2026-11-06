@@ -1,0 +1,5 @@
+# Python 3.14 x64 (Windows; 3.13 is also supported). Instalacja: py -3.14 -m pip install -r requirements.txt
+# Wersje sprawdzone z botem; nowsze zwykle też działają.
+mss>=10.0
+numpy>=2.0
+opencv-python>=4.10

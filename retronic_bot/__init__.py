@@ -1,0 +1,2 @@
+"""Moduły edukacyjnego klienta OTS."""
+

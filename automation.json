@@ -1,0 +1,11 @@
+{
+  "fishing_rod": [
+    1596,
+    374
+  ],
+  "fishing_min": 0.5,
+  "fishing_max": 0.6,
+  "fishing_stack": true,
+  "fishing_stack_every": 3,
+  "fishing_range": 7
+}
